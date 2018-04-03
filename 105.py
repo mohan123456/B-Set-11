@@ -1,0 +1,33 @@
+s =int(input("num1"))
+if(s==1):
+  print("A")
+elif(s==2):  
+  print("B")
+elif(s==3):  
+  print("C")
+elif(s==4):  
+  print("D")
+elif(s==5):  
+  print("E")
+elif(s==6):  
+  print("F")
+elif(s==7):  
+  print("G")
+elif(s==8):  
+  print("H")
+elif(s==9):  
+  print("I")
+elif(s==10):  
+  print("J")
+elif(s==11):  
+  print("K")
+elif(s==12):  
+  print("L")
+elif(s==13):  
+  print("M")
+elif(s==14):  
+  print("N")
+elif(s==15):  
+  print("O")
+else:  
+  print("nooo")
